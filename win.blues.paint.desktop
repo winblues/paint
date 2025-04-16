@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Paint
+Comment=Create, edit, and view pictures and drawings with this easy-to-use paint program.
+Exec=/usr/bin/python3 /usr/bin/winblues-paint
+Icon=win.blues.paint
+Terminal=false
+Categories=Graphics;GTK;
+StartupWMClass=Paint
+StartupNotify=true
